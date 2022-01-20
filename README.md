@@ -7,4 +7,4 @@ The dataset for equity values and customer information has been provided. The co
 ### The main steps in this project are as follows:
   - Specifying the churned users based on the definition provided by the company.
   - Dealing with the imbalanced dataset.
-  - Building classification model
+  - Building classification model.
